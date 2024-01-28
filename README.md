@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arvindra Ahirwar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate MERN stack dev from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arvindra1&label=Profile%20views&color=0e75b6&style=flat" alt="arvindra1" /> </p>
 

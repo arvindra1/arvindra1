@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **react** **Nextjs** **Node Js** **Typescript** **vite**
 
-- 📫 How to reach me **kumararvindra7691@gmail.com**
+- 📫 How to reach me **kumararvindra228@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
